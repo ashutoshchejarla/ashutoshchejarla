@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Chejarla</h1>
+<h1 align="center">Konnichiwa! I'm Ashutosh Chejarla</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshchejarla&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshchejarla" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshchejarla" alt="ashutoshchejarla" /></a> </p>
 
 - 🔭 I’m currently working on [my portfolio website](ashutoshchejarla.github.io/ashutoshchejarlaa)
 
@@ -19,7 +17,7 @@
 
 - 📄 Know about my experiences [my resume will come soon(still working on it)](my resume will come soon(still working on it))
 
-- ⚡ Fun fact **I like physics**
+- ⚡ Other than all the syllables mentioned above, **I like physics and coding is what i do in my free time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,3 +30,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshchejarla&show_icons=true&locale=en&layout=compact" alt="ashutoshchejarla" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutoshchejarla&show_icons=true&locale=en" alt="ashutoshchejarla" /></p>
+
