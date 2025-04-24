@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [ashutoshchejarla.github.io/ashutoshchejarlaa](ashutoshchejarla.github.io/ashutoshchejarlaa)
 
-- 📝 I regularly write articles on [tech?](tech?)
+- 📝 I regularly write articles on [tech?](#)
 
-- 📄 Know about my experiences [my resume will come soon(still working on it)](my resume will come soon(still working on it))
+- 📄 Know about my experiences [my resume will come soon(still working on it)](#)
 
-- ⚡ Other than all the syllables mentioned above, **I like physics and coding is what i do in my free time!**
+- ⚡ Other than all the syllables mentioned above, **I like _physics_ and _coding_ is what i do in my free time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
