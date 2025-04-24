@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **nothing really(currently)**
 
-- 🤝 I’m looking for help with **website development of startups**
+- 🤝 I’m looking to help with **website development of startups(_kinda like internship i guess?_)**
 
 - 👨‍💻 All of my projects are available at [ashutoshchejarla.github.io/ashutoshchejarlaa](ashutoshchejarla.github.io/ashutoshchejarlaa)
 
