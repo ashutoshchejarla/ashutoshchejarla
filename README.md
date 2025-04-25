@@ -3,21 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshchejarla&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshchejarla" /> </p>
 
-- 🔭 I’m currently working on [my portfolio website](ashutoshchejarla.github.io/ashutoshchejarlaa)
+- ||| I’m currently working on [my portfolio website](ashutoshchejarla.github.io/ashutoshchejarlaa)
 
-- 🌱 I’m currently learning **HTML5, CSS, Javascript, Python,**
+- ||| I’m currently learning **HTML5, CSS, Javascript, Python,**
 
-- 👯 I’m looking to collaborate on **nothing really(currently)**
+- ||| I’m looking to collaborate on **nothing really(currently)**
 
-- 🤝 I’m looking to help with **website development of startups(_kinda like internship i guess?_)**
+- ||| I’m looking for help with **website development of startups**
 
-- 👨‍💻 All of my projects are available at [ashutoshchejarla.github.io/ashutoshchejarlaa](ashutoshchejarla.github.io/ashutoshchejarlaa)
+- ||| All of my projects are available at [ashutoshchejarla.github.io/ashutoshchejarlaa](ashutoshchejarla.github.io/ashutoshchejarlaa)
 
-- 📝 I regularly write articles on [tech?](#)
+- ||| I regularly write articles on [tech?](tech?)
 
-- 📄 Know about my experiences [my resume will come soon(still working on it)](#)
+- ||| Know about my experiences [my resume will come soon(still working on it)](my resume will come soon(still working on it))
 
-- ⚡ Other than all the syllables mentioned above, **I like _physics_ and _coding_ is what i do in my free time!**
+- ||| Other than all the syllables mentioned above, **I like physics and coding is what i do in my free time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
