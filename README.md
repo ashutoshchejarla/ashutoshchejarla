@@ -1,8 +1,6 @@
 <h1 align="center">Konnichiwa! I'm Ashutosh Chejarla</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshchejarla&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshchejarla" /> </p>
-
 - ||| I’m currently working on [my portfolio website](ashutoshchejarla.github.io/ashutoshchejarlaa)
 
 - ||| I’m currently learning **HTML5, CSS, Javascript, Python,**
