@@ -13,7 +13,7 @@
 
 - ||| I regularly write articles on [tech?](tech?)
 
-- ||| Know about my experiences [my resume will come soon(still working on it)](my resume will come soon(still working on it))
+- ||| Know about my experiences [my resume will come soon(still working on it)]
 
 - ||| Other than all the syllables mentioned above, **I like physics and coding is what i do in my free time!**
 
