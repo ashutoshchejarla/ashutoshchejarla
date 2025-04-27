@@ -1,7 +1,7 @@
 <h1 align="center">Konnichiwa! I'm Ashutosh Chejarla</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
 
-- ||| I’m currently working on [my portfolio website](ashutoshchejarla.github.io/ashutoshchejarlaa)
+- ||| I’m currently working on [my portfolio website](https://ashutoshchejarla.github.io/ashutoshchejarlaa/)
 
 - ||| I’m currently learning **HTML5, CSS, Javascript, Python,**
 
