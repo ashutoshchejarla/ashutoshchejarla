@@ -9,7 +9,7 @@
 
 - ||| I’m looking for help with **website development of startups**
 
-- ||| All of my projects are available at [My Website](ashutoshchejarla.github.io/ashutoshchejarlaa)
+- ||| All of my projects are available at [My Website](https://ashutoshchejarla.github.io/ashutoshchejarlaa)
 
 - ||| soon I would be regularly writing articles on [tech?](tech?)
 
