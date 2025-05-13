@@ -11,7 +11,7 @@
 
 - ||| All of my projects are available at [ashutoshchejarla.github.io/ashutoshchejarlaa](ashutoshchejarla.github.io/ashutoshchejarlaa)
 
-- ||| I regularly write articles on [tech?](tech?)
+- ||| soon I would be regularly writing articles on [tech?](tech?)
 
 - ||| Know about my experiences [my resume will come soon(still working on it)]
 
